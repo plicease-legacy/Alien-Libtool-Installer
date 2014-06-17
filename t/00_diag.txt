@@ -1,0 +1,8 @@
+Alien::MSYS
+Archive::Tar
+Cwd
+File::Spec
+File::Temp
+HTTP::Tiny
+Module::Build
+Test::More
